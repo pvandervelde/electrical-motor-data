@@ -1,0 +1,37 @@
+---
+name: NEO brushless motor
+sku: REV-21-1650
+url: https://www.revrobotics.com/rev-21-1650/
+dimensions:
+  weight: 0.425
+  length: 0.0582
+  diameter: 0.060
+manufacturer:
+  name: REV
+  url: https://www.revrobotics.com
+performance:
+  published:
+    free_running_current: 1.8
+    kv: 473
+    max_rpm: 5676
+    max_voltage: 12.0
+    power: 540
+    stall_current: 150
+    stall_torque: 3.75
+    url: https://www.revrobotics.com/rev-21-1650/
+  measured:
+    free_running_current: 1.7
+    kv: 473
+    max_rpm: 5820
+    max_voltage: 12.0
+    power: 500
+    stall_current: 181
+    stall_torque: 3.28
+    url: https://motors.vex.com/other-motors/neo#narp186
+price:
+  currency: USD
+  value: 45
+type:
+  power_source: dc
+  brushes: false
+  runner: in-runner

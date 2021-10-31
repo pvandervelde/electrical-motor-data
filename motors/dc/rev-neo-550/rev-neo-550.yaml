@@ -1,0 +1,37 @@
+---
+name: NEO 550 brushless motor
+sku: REV-21-1651
+url: https://www.revrobotics.com/rev-21-1651/
+dimensions:
+  weight: 0.142
+  length: 0.0445
+  diameter: 0.035
+manufacturer:
+  name: REV
+  url: https://www.revrobotics.com
+performance:
+  published:
+    free_running_current: 1.4
+    kv: 917
+    max_rpm: 11000
+    max_voltage: 12.0
+    power: 279
+    stall_current: 100
+    stall_torque: 0.97
+    url: https://www.revrobotics.com/rev-21-1651/
+  measured:
+    free_running_current: 1.1
+    kv: 917
+    max_rpm: 11710
+    max_voltage: 12.0
+    power: 332
+    stall_current: 111
+    stall_torque: 1.08
+    url: https://motors.vex.com/other-motors/neo550
+price:
+  currency: USD
+  value: 25
+type:
+  power_source: dc
+  brushes: false
+  runner: in-runner
